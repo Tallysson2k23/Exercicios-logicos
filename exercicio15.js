@@ -36,6 +36,7 @@ while(num1*1!==numaleatorio*1){
                 console.log("Está esfriando")
                 num2=num1;
             }else{
+                
                 console.log("Está esquentando")
                 num2=num1
             }

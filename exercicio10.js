@@ -1,4 +1,4 @@
-//EX: 10
+//EX: 10 - Faça um programa que converts graus Celsius para Fahrenheit.
 
     const prompt = require("prompt-sync")();
         var celsius = parseFloat (prompt ("Informa a temperatura em Celsius: "));

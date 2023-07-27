@@ -13,5 +13,6 @@ console.log("Resultado:")
 for(numero of num2){
     if(numero!=="fim" && parseFloat(numero)%2==0){
         console.log(numero)
+        
     }
 }

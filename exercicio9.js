@@ -1,4 +1,4 @@
-//EX: 9
+//EX: 9 - Crie um programa que determine se um número é primo ou não.
 
 const prompt = require("prompt-sync")();
 var num1 = parseFloat (prompt ("Digite um número: "));

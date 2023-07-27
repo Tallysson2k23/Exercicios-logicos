@@ -11,3 +11,4 @@ console.log("Resposta: ")
 for(var i=lista.length-2;i>=0;i=i-1){
     console.log(lista[i])
 }
+

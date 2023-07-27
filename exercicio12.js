@@ -1,4 +1,6 @@
-//EX: 12
+//EX: 12 - Escreva um programa que receba uma lista de números 
+//e retorne o maior e o menor valor
+
 
 const prompt = require("prompt-sync")();
 var lista = [];

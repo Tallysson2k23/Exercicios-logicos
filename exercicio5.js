@@ -1,5 +1,5 @@
 
-//EX: 5 
+//EX: 5 -Faça um programa que verifique se um número é par ou impar
 
 const prompt = require ("prompt-sync")();
 var num1 = prompt ("Digite um número: ");

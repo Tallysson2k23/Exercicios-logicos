@@ -22,6 +22,7 @@ for(i=0;i<matriz_nome.length;i++){
 }
 if (palindromo===true){
     console.log("é palíndromo")
+    
 }else{
     console.log("não é palíndromo")
 }

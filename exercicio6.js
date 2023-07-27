@@ -1,5 +1,5 @@
 
-//EX: 6
+//EX: 6 -Escreva um programa que calcule a média de très números informados pelo usuário
 
     const prompt = require("prompt-sync")();
     var num1 = parseFloat (prompt ("Digite sua nota 1: "));
